@@ -147,3 +147,32 @@
 - M: Me too.
 
 #### A Going Away Party
+
+- M: What's the matter? Why do you look so sad?
+- W: Ada has a new job. She's going to Beijing.
+- M: Really? When is she leaving?
+- W: She's leaving at the end of next week.
+- M: That soon?
+- W: Yes, she just told me.
+- M: That's too bad. `I really enjoy working with her.`
+- W: Me too, I'm going to miss her.
+
+---
+
+- W: Let's have a going away party for her.
+- M: Good idea. How about this weekend?
+- W: Firday evening would be better. We can have it after work.
+- M: Yes, Friday is better.
+
+---
+
+- W: `Let's go to her favorite restaurant, okay?`
+- M: Which one? The Italian one or the German one?
+- W: The Italian one has better food, so let's go there. Their pizzas are awesome.
+
+---
+
+- M: Ok, I'll make the reservations.
+- W: Let me check with Ada first.`We don't want her to miss her party.`
+- M: Yeah, that's for sure. And could you please invite everyone in the office?
+- W: Sure, no problem. Nobody will want to miss it.
